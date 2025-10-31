@@ -7,10 +7,10 @@ Sou Desenvolvedor Full Stack com foco em **React.js, Laravel (PHP)** e **TypeScr
 <table>
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suzuyx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suzuyxd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     </td>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzuyx&layout=compact&langs_count=6&theme=tokyonight"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzuyxd&layout=compact&langs_count=6&theme=tokyonight"/>
     </td>
   </tr>
 </table>
